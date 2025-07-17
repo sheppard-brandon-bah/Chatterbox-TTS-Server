@@ -1,4 +1,4 @@
-FROM docker-io.nexus.boozallencsn.comnvidia/cuda:12.8.1-runtime-ubuntu22.04
+FROM docker-io.nexus.boozallencsn.com/nvidia/cuda:12.8.1-runtime-ubuntu22.04
 
 ARG RUNTIME=nvidia
 
